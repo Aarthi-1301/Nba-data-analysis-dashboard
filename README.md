@@ -28,7 +28,8 @@ Columns like height and weight were categorized into ranges using the SWITCH() f
 ->Excel: Utilized for initial data cleaning and handling missing values.<br>
 ->SQL: (Optional, if you ran any queries to handle data before importing to Power BI).<br>
 # DataSet
-<a href="https://github.com/Jai-sanjai/Data-Analysis-Dashboard/blob/main/nba_draft_combine_all_years.csv">Dataset</a>
+<a href=https://github.com/Aarthi-1301/data-analysis-dashboard/blob/main/nba.csv>Dataset</a>
 # Dashboard
-<a href="https://github.com/Jai-sanjai/Data-Analysis-Dashboard/blob/main/task_1.png"> Dashboard</a><br>
-![task_1](https://github.com/user-attachments/assets/533083af-cfe1-4848-993e-63efb003d160)
+<a href="https://github.com/Aarthi-1301/data-analysis-dashboard/blob/main/Screenshot%20(14).png"> Dashboard</a><br>
+<br><br><br>![Screenshot (14)](https://github.com/user-attachments/assets/25bc2342-f786-4c4b-b6ae-17af94eead38)
+
